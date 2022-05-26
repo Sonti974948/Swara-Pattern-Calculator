@@ -133,7 +133,7 @@ if a!=0:
             cols[0].metric('Aksharams for one round of Corvai',value=np.around(Corvai[i],decimals=0))
             cols[1].metric('Total Avarthanams',value=np.around(n1[i],decimals=0))
 
-
+st.caption("Created by : Sonti Siddharth")
 
 # if jathi=="Tisra":
 #             sheet.cell(row=2,column=11)=3
