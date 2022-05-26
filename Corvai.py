@@ -66,14 +66,14 @@ if lang=="Telugu":
     st.header("INTRODUCTION")
     st.write(r"""Mugimpu is one of the most important elements in a Carnatic Vocal concert. Mugimpu refers to a specific swara pattern which is sung *thrice*, and indicates the end of manodharmam for the
 particular krithi sung. Mugimpus are generally sung for sub-main and/or main pieces in a concert. Mugimpu is divided into 2 parts, the first part is a swara pattern which is sung thrice in succession, 
-followed by the second part which is a combination of aksharams (3,4,5,6,7,8,9, or even 10,11) and gaps. This website calculates the **number of aksharams** a mugimpu needs to made in, depending on the inputs given by the user """)
+followed by the second part which is a combination of aksharams (3,4,5,6,7,8,9, or even 10,11) and gaps. This website calculates the **number of aksharams** a mugimpu needs to be made in, depending on the inputs given by the user """)
 
 else:
     st.title("CORVAI CALCULATOR")
     st.header("INTRODUCTION")
     st.write(r"""Corvai is one of the most important elements in a Carnatic Vocal concert. Corvai refers to a specific swara pattern which is sung *thrice*, and indicates the end of manodharmam for the
 particular krithi sung. Corvais are generally sung for sub-main and/or main pieces in a concert. Corvai is divided into 2 parts, the first part is a swara pattern which is sung thrice in succession, 
-followed by the second part which is a combination of aksharams (3,4,5,6,7,8,9, or even 10,11) and gaps. This website calculates the **number of aksharams** a corvai needs to made in, depending on the inputs given by the user """)
+followed by the second part which is a combination of aksharams (3,4,5,6,7,8,9, or even 10,11) and gaps. This website calculates the **number of aksharams** a corvai needs to be made in, depending on the inputs given by the user """)
 
 
 if jathi:
